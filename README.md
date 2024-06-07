@@ -1,3 +1,5 @@
 # team-star
 
-## Instruction
+## Index
+
+### Instruction
